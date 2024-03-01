@@ -1,0 +1,27 @@
+.container > button {
+    width: 70px;
+    height: 30px;
+    margin-top: 20px;
+}
+.input-container {
+    display: flex;
+    flex-flow: column wrap;
+    height: 20%;
+}
+.input-container > div {
+    display: flex;
+    flex-flow: row wrap;
+    width: 50%;
+    height: 20%;
+}
+.input-container > input {
+    width: 70px;
+    height: 30px;
+    margin-top: 20px;
+}
+.input-container > div > h2 {
+    width: 70px;
+    height: 30px;
+    margin-top: 20px;
+    margin-right: 50px;
+}
